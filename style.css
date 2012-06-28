@@ -1,0 +1,20 @@
+.sideBar {
+	text-align:right;
+	padding-right:10px;
+	width:20%;
+	position:absolute;
+	padding-top:10%;
+}
+
+.page {
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
+	background-color:#F0F0F0;
+	padding:10px;
+	margin-top:0;
+}
+
+#headerImage {
+	background-image:url('header.png');
+}
