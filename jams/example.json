@@ -1,0 +1,15 @@
+{
+	{ "comment" : "format all games in json files like this one. The name of the file should be YEAR-QUARTER.json, like 2011-winter.json. Also, make sure there is an image uploaded in the image folder with a name that matches the game's name field" }
+
+	"games" : [
+		{
+			"name" : "GameName",
+			"author": "Quin McNinja",
+			"description": "A game about a moose, and some gnomes",
+			"website" : "none",
+			"awards" : [
+				"Game of the Jam", "Best smell-o-vision"
+			]
+		}
+	]
+}

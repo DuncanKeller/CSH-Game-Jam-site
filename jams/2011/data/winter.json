@@ -1,0 +1,13 @@
+{
+	"games" : [
+		{
+			"name" : "GameName",
+			"author": "Quin McNinja",
+			"description": "A game about a moose, and some gnomes",
+			"website" : "none",
+			"awards" : [
+				"Game of the Jam", "Best smell-o-vision"
+			]
+		}
+	]
+}
