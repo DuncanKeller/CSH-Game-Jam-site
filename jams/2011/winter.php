@@ -31,11 +31,11 @@
 					$dl = addslashes($year . "/games/" . $name);
 
 					echo "<h3>" . $name . "</h3>";
-					echo "<img src=\'" . $name . ".png\'" . " />". "<br />";
+					echo "<img src=\"" . $name . ".png\"" . " />". "<br />";
 					echo "<b>Author: </b>" . $author . "<br />";
 					echo "<b>Description: </b>" . $description . "<br />";
-					echo "<b>Website: </b><a href=\'" . $website . "\'>" . "link" . "</a>". "<br />";
-					echo "<b>Download/Play: </b><a href=\'" . $dl . "\'>" . "link" . "</a>". "<br />";
+					echo "<b>Website: </b><a href=" . $website . ">" . "link" . "</a>". "<br />";
+					echo "<b>Download/Play: </b><a href=" . $dl . ">" . "link" . "</a>". "<br />";
 				}
 			?>
 		</div>
