@@ -24,19 +24,20 @@
 						break;
 					}
 					if(file_exists($year . "/fall.php")) {
-						echo "<a href=" . $year . "/fall.php" . ">Fall Jam</a>";
+						echo "<a href=" . $year . "/fall.php" . ">Fall Jam</a><br />";
 					}
 					if(file_exists($year . "/winter.php")) {
-						echo "<a href=" . $year . "/winter.php" . ">Winter Jam</a>";
+						echo "<a href=" . $year . "/winter.php" . ">Winter Jam</a><br />";
 					}
 					if(file_exists($year . "/spring.php")) {
-						echo "<a href=" . $year . "/spring.php" . ">Spring Jam</a>";
+						echo "<a href=" . $year . "/spring.php" . ">Spring Jam</a><br />";
 					}
 					if(file_exists($year . "/summer.php")) {
-						echo "<a href=" . $year . "/summer.php" . ">Summer Jam</a>";
+						echo "<a href=" . $year . "/summer.php" . ">Summer Jam</a><br />";
 					}
 					$year++;
 				}
+				
 			?>
 		</div>
 

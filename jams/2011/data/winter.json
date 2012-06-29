@@ -1,4 +1,6 @@
 {
+	"description" : "The first ever CSH Game Jam! There was no theme, and people gathered mainly in the user center to work. This Jam saw the birth and death of the CSH Game Jam metagame.",
+	"theme" : "none",
 	"games" : [
 		{
 			"name" : "GameName",
