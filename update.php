@@ -18,7 +18,7 @@
 		fwrite($fh, $head);
 		$bodyOpen = "<body><div class = \"sideBar\"><?php include \"../../sideBar.php\" ?></div><div class = \"page\" ><div id = \"headerImage\" > </div><div class = \"content\">";
 		fwrite($fh, $bodyOpen);
-		$pageInfo = "<h2>" . $year . " School Year</h2><h3>" . ucfirst($quarter) . " Game Jam</h3>";
+		$pageInfo = "<h2>" . $year . " School Year</h2><h3>" . ucfirst ucfirst($quarter) . " Game Jam</h3>";
 		fwrite($fh, $pageInfo);
 		$bodyClose = "<?php include \"../generateContent.php\";?></div></div></body>";
 		fwrite($fh, $bodyClose);

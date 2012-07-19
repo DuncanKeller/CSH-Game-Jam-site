@@ -2,14 +2,78 @@
 	"description" : "The first ever CSH Game Jam! There was no theme, and people gathered mainly in the user center to work. This Jam saw the birth and death of the CSH Game Jam metagame.",
 	"theme" : "none",
 	"games" : [
-		{
-			"name" : "GameName",
-			"author": "Quin McNinja",
-			"description": "A game about a moose, and some gnomes",
+        {
+			"name" : "XXXXXXXX",
+			"author": "David Bright",
+			"description": "A tactical pony-fighting game, set on a grid with varying terrain, and basic AI. Although incomplete, there are an impressive number of elements for such a short timeframe",
 			"website" : "none",
 			"awards" : [
-				"Game of the Jam", "Best smell-o-vision"
+				"Chaos Dunk: Game of the Jam!"
+			]
+		},
+		{
+			"name" : "XXXXXXXX",
+			"author": "Michael Moffit and Julian Hammerstein",
+			"description": "A cooperative shooter, in the vien of contra and gunstar heroes. Collect jam to get new powerups.",
+			"website" : "none",
+			"awards" : [
+				"Best Art", "Most Fun"
+			]
+		},
+        {
+			"name" : "Particle Simulator",
+			"author": "Alex Crawford",
+			"description": "A pretty awesome simulated enviorment for playing with a large number of tiny particles.",
+			"website" : "none",
+			"awards" : [
+				"Most Technical"
+			]
+		},
+        {
+			"name" : "Perlthonby",
+			"author": "Will Orr",
+			"description": "The frusterations of getting setting up a development environment in a shell, made into game form!",
+			"website" : "none",
+			"awards" : [
+				"Best Concept", "Duncan Award"
+			]
+		},
+        {
+			"name" : "XXXXXXXXX",
+			"author": "Christopher Lockfort",
+			"description": "A text adventure taking place on CSH, written in Inform7.",
+			"website" : "https://github.com/clockfort/csh-interactive-fiction",
+			"awards" : [
+				"Beekman Award", "Most Obsucre Language"
+			]
+		},
+        {
+			"name" : "Spaceways",
+			"author": "Alex Howland",
+			"description": "Orgainizing a package shipping system, in the vastness of outer space. Build space hubs, and link them together to set up routes.",
+			"website" : "https://github.com/alliekins/Spaceways",
+			"awards" : [
+				
+			]
+		},
+        {
+			"name" : "Perfect Day",
+			"author": "Andrew Mandula",
+			"description": "A 3D gem-collection platformer from a first-person perspective, created in Unity.",
+			"website" : "http://andrewmandula.wordpress.com/projects/game-in-unity/",
+			"awards" : [
+				
+			]
+		},
+        {
+			"name" : "TPG",
+			"author": "Josh Winemiller",
+			"description": "Trollsy Puzzle Game is a game about getting from start to finish, when the game is playing against you.",
+			"website" : "none",
+			"awards" : [
+				
 			]
 		}
+        
 	]
 }

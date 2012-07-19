@@ -1,0 +1,61 @@
+{
+	"description" : "Due to the success of the winter jam, it was decided to do another one in the spring instead of wait a full year. This jam turned out just as well, if not better, with some games that really fuckin' rocked! A theme was also introduced for the first time, which provided some context for people who needed it, though it was not a requirment to use it.",
+	"theme" : "Unforseen Consequences",
+	"games" : [
+        {
+			"name" : "Ghost in the Machine",
+			"author": "Michael Moffit and Julian Hammerstein",
+			"description": "Awesome art, fun game, and completely finished. Good jorb, guys.",
+			"website" : "none",
+			"awards" : [
+				"Chaos Dunk: Game of the Jam!"
+			]
+		},
+		{
+			"name" : "Anachros",
+			"author": "Sam Lucidi",
+			"description": "An ASCII RTS where you can go back in time and undo actions. Seeing the consequences of time-tampering is where the game really gets interesting.",
+			"website" : "https://github.com/mansam/anachronos,
+			"awards" : [
+				"Best Concept"
+			]
+		},
+        {
+			"name" : "Untitled Music Game",
+			"author": "Bob Schriver",
+			"description": "A cool enviormnet, filled with tone-generating blocks that emit sound waves.",
+			"website" : "csh.rit.edu/~schriver/game_jam",
+			"awards" : [
+				"Most Technical"
+			]
+		},
+        {
+			"name" : "XXXXXXXX",
+			"author": "Grant Kurtz",
+			"description": "Give robots commands to navigate them around a dangerous factory. Robots are controlled in serial, making this on of the more interesting games of the jam.",
+			"website" : "none",
+			"awards" : [
+				"Best Design"
+			]
+		},
+        {
+			"name" : "XXXXXXXX",
+			"author": "Ben Centra",
+			"description": "Easiy the funniest game of the jam. I don't want to spoil it, but Ben really did wonders with the theme.",
+			"website" : "none",
+			"awards" : [
+				"Best Use of Theme"
+			]
+		},
+         {
+			"name" : "XXXXXXXX",
+			"author": "Eric Adams and Alex Berkowitz",
+			"description": "Despite the glitches, Berkowitz and Eric did very well for there first attempt. Besides, it warms me ol' heart to see freshmen participate in events like this.",
+			"website" : "none",
+			"awards" : [
+
+			]
+		},
+        
+	]
+}
